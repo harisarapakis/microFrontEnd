@@ -32,6 +32,13 @@ To run the application locally, follow these steps:
 - Use the filter buttons to filter episodes based on watch status.
 - Click on the "Load More" button to load more episodes.
 
+## Technologies Used
+- Angular: Frontend framework for building the application's user interface.
+- TypeScript: Programming language used to write the application code.
+- RxJS: Reactive Extensions library used for asynchronous programming.
+- Tailwind CSS: for a responsive and visually appealing design.
+- SCSS: Preprocessor for CSS used to style the application.
+
 ## Contributing
 
 If you would like to contribute to this project, please follow these steps:
